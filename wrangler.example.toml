@@ -1,0 +1,9 @@
+name = "asset-uploader"
+workers_dev = false
+compatibility_date = "2022-07-12"
+main = "./index.js"
+
+[[r2_buckets]]
+binding = 'BUCKET'
+bucket_name = ''
+preview_bucket_name = ''

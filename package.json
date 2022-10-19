@@ -1,0 +1,14 @@
+{
+  "name": "asset-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tustin <tustin@tustin.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^3.17.0",
+    "itty-router": "^2.6.6"
+  }
+}
